@@ -108,6 +108,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const last = params.get('last')
       localStorage.setItem('default', 'custom');
       $tabInput.value = last
+      document.title = last
     } else {
       console.log('no mode');
       localStorage.removeItem('custom');
