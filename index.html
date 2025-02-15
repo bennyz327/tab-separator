@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab Separator - Online generator</title>
+    <meta name="title" content="Tab Separator - Online generator">
+    <meta name="description" content="Online tool to make tab separators by changing the document title">
+    <meta name="keywords" content="online generator, online tool, tool, tab, browser, organize,  productivity">
+    <meta name="robots" content="index, follow">
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="scripts.js" defer></script>
+  </head>
+  <body>
+    <div class="content">
+      <header>
+        <div class="container tcenter">
+          <h1>Tab Separator</h1>
+          <p class="mb1">Online tool to add a separator for browser tabs</p>
+          <img src="tabs.png" alt="Screenshot samples for tabs" class="mx-auto">
+        </div>
+        <label for="switch" class="theme-switcher js-theme-switcher">
+          <input id="switch" type="checkbox" class="theme-switch">
+          <img src="adjust.svg" alt="" class="theme-icon">
+        </label>
+      </header>
+      
+      <main class="center-content">
+        <article class="container">
+            
+          <div class="block mt1">
+            <label for="tab-title"><h2>Tab title</h2></label>
+            <input class="w-100 p1 big js-tab-input" id="tab-title" type="tab-title" name="tab-title" required placeholder="|||||||">
+          </div>
+
+          <div class="my2">
+            <details>
+              <summary>Default option</summary>
+              <div class="flex">
+                <label for="random">
+                  <input id="random" type="radio" name="default" value="random">
+                  random
+                </label>
+                <div class="flex">
+                  
+                    <label for="custom">
+                      <input id="custom" type="radio" name="default" value="custom">
+                      custom
+                    </label>
+                      <label for="tab-title-custom">Custom title</label>
+                      <input class="mt0 p1 js-tab-input-custom" id="tab-title-custom" type="tab-title-custom" name="tab-title-custom" required placeholder="|||||||" disabled>
+                  </div>
+                </div>
+            </details>
+          </div>
+
+          <div class="my2">
+            <h2>Or pick a predefined one:</h2>
+            <div>
+              <button class="btn m1 js-tab-sample">⬛ || ⬛</button>
+              <button class="btn m1 js-tab-sample">⬛</button>
+              <button class="btn m1 js-tab-sample">⬜</button>
+              <button class="btn m1 js-tab-sample">🟥</button>
+              <button class="btn m1 js-tab-sample">🟩</button>
+              <button class="btn m1 js-tab-sample">🟦</button>
+              <button class="btn m1 js-tab-sample">🟨</button>
+              <button class="btn m1 js-tab-sample">🟪</button>
+              <button class="btn m1 js-tab-sample">🟧</button>
+              <button class="btn m1 js-tab-sample">🟫</button>
+              <button class="btn m1 js-tab-sample">⬅️</button>
+              <button class="btn m1 js-tab-sample">➡️</button>
+              <button class="btn m1 js-tab-sample">✔</button>
+              <button class="btn m1 js-tab-sample">❌</button>
+              <button class="btn m1 js-tab-sample">📖</button>
+              <button class="btn m1 js-tab-sample">🔖</button>
+              <button class="btn m1 js-tab-sample">📌</button>
+              <button class="btn m1 js-tab-sample">🛠</button>
+              <button class="btn m1 js-tab-sample">0️⃣</button>
+              <button class="btn m1 js-tab-sample">1️⃣</button>
+              <button class="btn m1 js-tab-sample">2️⃣</button>
+              <button class="btn m1 js-tab-sample">3️⃣</button>
+              <button class="btn m1 js-tab-sample">4️⃣</button>
+              <button class="btn m1 js-tab-sample">5️⃣</button>
+              <button class="btn m1 js-tab-sample">6️⃣</button>
+              <button class="btn m1 js-tab-sample">🔠</button>
+            </div>
+          </div>
+        </article>
+      </main>
+	  <footer class="tcenter"></footer>
+    </div>
+  </body>
+</html>

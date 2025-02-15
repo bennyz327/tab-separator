@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 47 47"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="adjust.svg"
+   width="47"
+   height="47"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1786"
+     inkscape:window-height="874"
+     id="namedview12"
+     showgrid="false"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="9.4575532"
+     inkscape:cx="2.0734634"
+     inkscape:cy="24.98416"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1490"
+     lock-margins="true"
+     inkscape:document-rotation="0"
+     showguides="false" />
+  <!-- Font Awesome Pro 5.15.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+  <defs
+     id="defs4">
+    <style
+       id="style2">.fa-secondary{opacity:.4}</style>
+  </defs>
+  <g
+     id="g1478">
+    <g
+       id="g1482">
+      <g
+         id="g1486"
+         transform="rotate(90,23.500022,23.5)">
+        <g
+           id="g1490">
+          <g
+             id="g1494">
+            <path
+               id="path862"
+               style="opacity:1;fill:#121212;fill-opacity:1;stroke-width:1.28044"
+               d="M 46.382812,23.589844 0.6171875,23.505859 A 22.883148,22.5 0 0 0 23.5,46 22.883148,22.5 0 0 0 46.382812,23.589844 Z" />
+            <path
+               id="path870"
+               style="opacity:1;fill:#fafafa;fill-opacity:1;stroke-width:1.28044"
+               d="m 23.5,1 a 22.883148,22.5 0 0 0 -22.8828125,22.5 22.883148,22.5 0 0 0 0,0.0059 l 45.7656245,0.08398 a 22.883148,22.5 0 0 0 0,-0.08984 A 22.883148,22.5 0 0 0 23.5,1 Z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
